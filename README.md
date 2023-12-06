@@ -4,7 +4,7 @@ En este repositorio te comparto la limpieza y transformación de la data Netflix
   1. Problema del negocio ó preguntas a resolver.
   2. El set de datos.
   3. Una primera exploración del dataset.
-  4. Limpieza:
+  4. Limpieza.
   4.1 Datos faltantes.
   4.2 Columnas irrelevantes.
   4.3 Registros repetidos.
